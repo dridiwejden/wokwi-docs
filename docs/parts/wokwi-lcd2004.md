@@ -15,7 +15,7 @@ For **complete information and code examples**, please see the [wokwi-lcd1602 re
 
 | Result                                                                | Attrs                                        |
 | --------------------------------------------------------------------- | -------------------------------------------- |
-| <wokwi-lcd2004 text="Hello World!" />                                 | `{ }`                                        |
+| <wokwi-lcd2004 text="PRESSION 1015,42hpa" />                                 | `{ }`                                        |
 | <wokwi-lcd2004 text="Hello World!" pins="i2c" />                      | `{ "pins": "i2c" }`                          |
 | <wokwi-lcd2004 background="blue" color="white" text="Hello World!" /> | `{ "background": "blue", "color": "white" }` |
 
